@@ -37,6 +37,12 @@ export default function Home() {
           height={37}
           priority
         />
+        <Image
+            src="/n.jpg"
+            alt="image"
+            width={180}
+            height={230}
+        />
       </div>
 
       <div className={styles.grid}>
